@@ -7,6 +7,6 @@ function agregarAmigo () {
     }else {
         alert('"Por favor, inserte un nombre."');
     }
-    
+    document.querySelector('#amigo').value='';
     console.log(amigos);
 }
