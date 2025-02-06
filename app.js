@@ -24,3 +24,14 @@ function actulizarListaAmigos () {
     }
 }
 
+function sortearAmigo () {
+    if (amigos.length <= 1){
+        alert('No hay amigos suficientes para sortear.');
+        document.getElementById('amigo').focus();
+
+    }else{
+        let indiceGenerado =  Math.floor(Math.random()*amigos.length);
+        console.log(indiceGenerado);
+        console.log(amigos[indiceGenerado]);
+    }
+}
