@@ -31,6 +31,9 @@ function sortearAmigo () {
 
     }else{
         let indiceGenerado =  Math.floor(Math.random()*amigos.length);
+        let amigoSorteado = amigos [indiceGenerado];
+        let listaResultado = document.getElementById('resultado');
+        listaResultado.innerHTML= `<li> El amigo secreto sorteado es: ${amigoSorteado}</li>`;
         console.log(indiceGenerado);
         console.log(amigos[indiceGenerado]);
     }
