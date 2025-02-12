@@ -23,7 +23,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 ![validar](https://github.com/user-attachments/assets/c583b5cc-a78f-4f28-a8f9-d9dedeb36c60)
 
 
-•	Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+•	Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada. Al hacer clic en el botón "Sortear Amigo" sin tener ningún registro o con un registro, el programa mostrará un alerta indicando que no son suficientes los amigos registrados para realizar el sorteo.
 
 ![sortear](https://github.com/user-attachments/assets/cff7b823-0a80-4583-9572-7b3ed406e2c9)
 
