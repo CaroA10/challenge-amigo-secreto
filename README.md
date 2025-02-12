@@ -14,15 +14,24 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 ## FUNCIONALIDADES DEL PROYECTO
 
-•	Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+•	Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
 ![descripcion](https://github.com/user-attachments/assets/5f2d24d2-98a5-459b-a1e2-0eee67ca01fc)
 
 •	Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
+![validar](https://github.com/user-attachments/assets/c583b5cc-a78f-4f28-a8f9-d9dedeb36c60)
+
+
 •	Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
+![sortear](https://github.com/user-attachments/assets/cff7b823-0a80-4583-9572-7b3ed406e2c9)
+
+
 •	Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+![resultado](https://github.com/user-attachments/assets/d8ae129b-43d2-44ea-8c85-31a11121c26c)
+
 
 ## TECNOLOGIAS UTILIZADAS
 •	Java
