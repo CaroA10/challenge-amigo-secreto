@@ -26,7 +26,7 @@ function actulizarListaAmigos () {
 
 function sortearAmigo () {
     if (amigos.length <= 1){
-        alert('No hay amigos suficientes para sortear.');
+        alert('No hay amigos suficientes para sortear.'); 
         document.getElementById('amigo').focus();
 
     }else{
