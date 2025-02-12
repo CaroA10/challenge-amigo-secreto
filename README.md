@@ -16,6 +16,8 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 •	Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
+![descripcion](https://github.com/user-attachments/assets/5f2d24d2-98a5-459b-a1e2-0eee67ca01fc)
+
 •	Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
 •	Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
